@@ -173,4 +173,4 @@ title('Grid Power After V2G Compensation'); grid on;
 
 ## Result
 
-Therefore the architecture of a Vehicle-to-Grid system using MATLAB is simulated.
+Hence the architecture of a Vehicle-to-Grid system using MATLAB is simulated.
