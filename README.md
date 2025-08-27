@@ -1,11 +1,11 @@
-# Simulation-of-the-architecture-of-a-Vehicle-to-Grid-system-using-MATLAB
-## AIM
+Simulation-of-the-architecture-of-a-Vehicle-to-Grid-system-using-MATLAB
+AIM
 To Simulate the architecture of a Vehicle-to-Grid system using MATLAB 
 
-## APPARATUS REQUIRED
+APPARATUS REQUIRED
 •	MATLAB
 
-## MATLAB CODING
+MATLAB CODING
 clc; 
 clear; 
 close all; 
@@ -90,10 +90,10 @@ ylabel('Net Grid Power (kW)');
 title('Grid Power After V2G Compensation'); grid on;
 
 
-## Output
+Output
 
 ![ev](https://github.com/user-attachments/assets/ed91a80f-81db-44a3-8fb7-4b69bec36fa1)
 
-## Result
+Result
 Hence the Architecture of a Vehicle to Grid System using MATLAB is Simulated.
 
