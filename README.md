@@ -178,7 +178,10 @@ title('Grid Power After V2G Compensation'); grid on;
 
 Output
 
-https://github.com/user-attachments/assets/ed91a80f-81db-44a3-8fb7-4b69bec36fa1
+
+![WhatsApp Image 2025-08-27 at 19 18 36_82790c5d](https://github.com/user-attachments/assets/4a168b4c-2a52-44dc-8c08-a10ef29d1326)
+
+
 
 Result
 
